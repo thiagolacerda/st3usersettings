@@ -1,0 +1,6 @@
+{
+    // In case p4 is not in your path add it here for each platform, otherwise leave it blank
+    "osx": {
+        "binary": "/usr/local/bin/p4"
+    }
+}

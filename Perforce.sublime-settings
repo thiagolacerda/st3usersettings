@@ -1,0 +1,6 @@
+{
+    "osx": {
+        "perforce_p4path": "/usr/local/bin/"
+    },
+    "p4config": ".p4config"
+}

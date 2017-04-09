@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"GitGutter",
+		"P4Gutter",
+		"Package Control",
+		"Perforce",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-tslint",
+		"TrailingSpaces",
+		"TypeScript",
+		"TypescriptCompletion"
+	],
+	"repositories":
+	[
+		"https://github.com/thiagolacerda/Perforce.git",
+		"https://github.com/thiagolacerda/P4Gutter.git"
+	]
+}

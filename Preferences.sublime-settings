@@ -1,0 +1,59 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"default_line_ending": "unix",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"pipelog.txt"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"artifacts_tube*",
+		"build/x64",
+		"build/Release",
+		"build/Debug",
+		"build/pipeline",
+		"buildmarks",
+		"product-tests",
+		"tableau-support",
+		"boost",
+		"_Repository",
+		"shared-assets",
+		"pyshared",
+		"xcode"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		120,
+		140
+	],
+	"translate_tabs_to_spaces": true
+}
