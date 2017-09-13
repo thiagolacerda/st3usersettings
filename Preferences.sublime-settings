@@ -55,6 +55,7 @@
 		120,
 		140
 	],
+	"show_line_endings": true,
 	"soda_classic_tabs": true,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,

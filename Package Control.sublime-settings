@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"BracketHighlighter",
+		"CMakeEditor",
 		"File Rename",
 		"GitGutter",
 		"P4Gutter",
