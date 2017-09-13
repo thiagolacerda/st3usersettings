@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Babel",
 		"BracketHighlighter",
 		"CMakeEditor",
+		"DocBlockr",
 		"File Rename",
 		"GitGutter",
 		"P4Gutter",
