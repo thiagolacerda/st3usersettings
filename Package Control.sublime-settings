@@ -12,13 +12,14 @@
 		"DocBlockr",
 		"File Rename",
 		"GitGutter",
+		"HighlightTabs",
 		"P4Gutter",
 		"Package Control",
 		"Perforce",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-tslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-tslint",
 		"Theme - Soda",
 		"TrailingSpaces",
 		"TypeScript",
@@ -27,6 +28,7 @@
 	"repositories":
 	[
 		"https://github.com/thiagolacerda/Perforce.git",
-		"https://github.com/thiagolacerda/P4Gutter.git"
+		"https://github.com/thiagolacerda/P4Gutter.git",
+		"https://github.com/polygonplanet/HighlightTabs"
 	]
 }
